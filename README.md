@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-del-pasado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Secretos del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-del-pasado/) |
+| **Get License** | [Request Licensing for Secretos del pasado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-del-pasado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la luna sabe que estamos envueltos, yeah
+> Esa mirada tuya y el humo en el viento
+> No digas nada, deja que hable el momento
+> Tú eres el fuego oscuro que yo estoy sintiendo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
