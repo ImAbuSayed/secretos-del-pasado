@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Secretos del pasado
+
+This log tracks the cryptographic history and versioning for the song **Secretos del pasado** (secretos-del-pasado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:45:36.688172 | `v1` | `c619ccb55aed5054698bd462bd71256d466a466e3240088a2a6733b61beb387a` | `d70fab9aa463899157b9b7ce0b4af56114f38c3fba29700b7d0760983238f3a3` | `2026-06-18_secretos-del-pasado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
